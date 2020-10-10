@@ -1,1 +1,1 @@
-# store
+The very first version of the store.
